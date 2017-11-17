@@ -4,7 +4,7 @@ CLI to monitor DSI servers by using the IBM JDK JMX Beans.
 
 ## Compilation
 
-Copy from the DSI distribution the restConnector.jar to the director lib, then
+Copy from the DSI distribution the restConnector.jar to the directory lib, then
 compile the maven project:
 
 `mvn clean install`
